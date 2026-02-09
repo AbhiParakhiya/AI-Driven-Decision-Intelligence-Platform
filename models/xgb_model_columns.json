@@ -1,0 +1,1 @@
+["Inventory", "Promo_Flag", "Holiday_Flag", "Year", "Month", "Day", "DayOfWeek", "Quarter", "IsLocalHoliday", "Sales_Lag_1", "Sales_Lag_7", "Sales_Lag_30", "Sales_Rolling_Mean_7", "Sales_Rolling_Mean_30", "Sales_Rolling_Std_7", "Region_North", "Region_South", "Region_West", "Category_Electronics", "Category_Furniture", "Category_Home_Appliances"]
